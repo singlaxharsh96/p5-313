@@ -1,0 +1,14 @@
+# Dependencies and generated output
+node_modules/
+**/node_modules/
+frontend/dist/
+
+# Secrets / local configuration
+.env
+**/.env
+.env.*
+**/.env.*
+
+# OS / editor
+.DS_Store
+.vscode/
